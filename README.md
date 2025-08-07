@@ -13,9 +13,7 @@ A secure document management system with end-to-end encryption, role-based acces
 - **AI Capabilities**:
   - **Auto-tagging**: Automatically generate relevant tags using NLP
   - **Document Summarization**: Extract concise summaries from large documents
-  - **Content Classification**: Classify documents based on sensitivity and department using ML
-  - **Intelligent Search**: Semantic search support using AI-powered matching
-  - **Anomaly Detection**: Detect suspicious document access patterns
+  
 
 ## Technology Stack
 
